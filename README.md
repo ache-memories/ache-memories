@@ -1,7 +1,31 @@
+# ⚡ Adnan Hasan | ache-memories 👋
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ache-memories&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Adnan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ache-memories&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ache-memories&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ache-memories&layout=compact&theme=tokyonight&hide_progress=false" alt="Top Languages" />
 </div>
+
+---
+
+### 🚀 About My Work
+- 🐧 **Linux Enthusiast**: Building automation tools for content management.
+- 🎬 **Project**: Creator of [Adnan Video Shrinker](https://github.com/ache-memories/Adnan-Video-Shrinker) (H.265 Optimized).
+- ✍️ **Creative**: Writer and quote collector. Explore my imagination on [Wattpad](https://www.wattpad.com/user/AdnanHasan).
+
+---
+
+### 💻 My Tech Arsenal
+<p align="left">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/SEO-blue?style=for-the-badge&logo=google-search-console&logoColor=white" />
+</p>
+
+---
+
+### 📫 Connect with me
+- **Portfolio**: [Beacons.ai/adnan](https://beacons.ai/adnan)
+- **Creative Writing**: [Wattpad Profile](https://www.wattpad.com/user/AdnanHasan)
